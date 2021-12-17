@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width:100%;
+    border: 1px solid #b37e7e;
+    /* background-color: #ff9595; */
+}
+li{
+display:inline;
+color: black;
+}
+li a {
+    color: rgb(17, 17, 17);
+}
+nav{
+    background-color: rgb(179, 179, 0);
+    color: black;
+}
+
+  
